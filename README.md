@@ -1,7 +1,7 @@
-# Zapatillas
+# Universidad de Buenos Aires
 
-### Marcas de zapatillas: 
+### Facultades: 
 
-- Nike
-- Adidas
-- Puma
+- Ciencias Económicas
+- Ciencias Médicas
+- Derecho
